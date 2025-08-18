@@ -47,7 +47,7 @@ I love building interactive web applications, experimenting with new tech, and c
 
 ## 📫 Connect with Me  
 
-- 💼 [LinkedIn ((Inactive)](https://www.linkedin.com/in/kushal-radadiya-b77319352/)   
+- 💼 [LinkedIn (Inactive)](https://www.linkedin.com/in/kushal-radadiya-b77319352/)   
 - 🌐 [Portfolio](https://t0mo4ach1.github.io/Portfolio/)  
 - ✉️ Email: *katagirikanae9@gmail.com*  
 
