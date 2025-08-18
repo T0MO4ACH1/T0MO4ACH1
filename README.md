@@ -31,7 +31,7 @@ I love building interactive web applications, experimenting with new tech, and c
 ---
 
 ## 📌 Projects  
-🔹 **[Typing Game] (Ongoing)(#)** – A typing game inspired by Monkeytype  
+🔹 **[Typing Game(On Hiatus)](#)** – A typing game inspired by Monkeytype  
 🔹 **[Pokémon Nuzlocke / Integrated Emulator](#)** – Play pokemon anywhere, while challenging yourself. 
 
 ---
