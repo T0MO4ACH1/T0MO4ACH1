@@ -101,9 +101,7 @@ printf("Cant forget the og language");
 
 
 <!-- ⚡ CREDITS -->
-<div align="center">
-  <sub>✨ Profile generated with ❤️ using GitHub magic ✨</sub>
-</div>
+
 
 <!-- 🎯 GITHUB ACTIONS FOR DYNAMIC CONTENT -->
 <!-- These sections will be automatically updated by GitHub Actions -->
