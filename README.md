@@ -12,7 +12,27 @@
 
 <h2 align="center"> My Projects</h2>
 
-<a href="https://pokemon-nuzlocke-vfd5.vercel.app/">Pokemon Nuzlocke</a>
+<h1 style="margin: 40px 0 20px 0; 
+             font-size: 3.5em; 
+             background: linear-gradient(90deg, #2563eb 0%, #7c3aed 50%, #db2777 100%);
+             -webkit-background-clip: text;
+             color: transparent;">
+    Pokemon Nuzlocke
+  </h1>
+
+  <!-- Dynamic description -->
+  <p style="max-width: 800px; margin: 0 auto 40px auto; 
+            color: #334155; 
+            font-size: 1.3em;
+            line-height: 1.7;
+            padding: 0 20px;">
+    <strong>Pokemon Nuzlocke</strong>A Website made for tracking, helping and documenting your nuzlockes.<br><br>
+    📚 <span style="color: #2563eb;">Useful Information regarding nuzlockes</span> - Documents for each game, Walkthroughs, Pokedex.<br>
+    💻 <span style="color: #2563eb;">Integrated Emulator</span> - Play Anytime, Anywhere. Compatible with many beloved Games like (Pokemon FireRed, HeartGold, Emerald, Platinum, Black, X, etc.)<br>
+    🏆 <span style="color: #7c3aed;">Track your Victories</span> - Track your victories, along with trophies for each completed Nuzlocke <br><br>
+     Powered by and with the help of <a href="https://emulatorjs.org/">Emulator.js</a> and <a href="https://pokeapi.co/">PokeAPI</a>.
+  </p>
+
 
 
 
