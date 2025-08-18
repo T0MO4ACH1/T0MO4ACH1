@@ -30,7 +30,7 @@
     📚 <span style="color: #2563eb;">Useful Information regarding nuzlockes</span> - Documents for each game, Walkthroughs, Pokedex.<br><br>
     💻 <span style="color: #2563eb;">Integrated Emulator</span> - Play Anytime, Anywhere. Compatible with many beloved Games like (Pokemon FireRed, HeartGold, Emerald, Platinum, Black, X, etc.)<br><br>
     🏆 <span style="color: #7c3aed;">Track your Victories</span> - Track your victories, along with trophies for each completed Nuzlocke <br><br>
-     Powered by and with the help of <a href="https://emulatorjs.org/">Emulator.js</a> and <a href="https://pokeapi.co/">PokeAPI</a>.
+     Powered by and with the help of <a href="https://emulatorjs.org/">Emulator.js</a> and <a href="https://pokeapi.co/">PokeAPI</a><br>
   </p>
 
 
