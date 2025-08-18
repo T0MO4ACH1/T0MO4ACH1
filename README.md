@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Kane  
 
-🚀 A passionate **2nd-year Computer Science student** and aspiring **Full-Stack Developer**.  
+🚀 A passionate **2nd-year Computer Science student** and aspiring **Full-Stack Developer and Software Developer**.  
 I love building interactive web applications, experimenting with new tech, and creating projects that help me (and others) learn faster.  
 
 ---
