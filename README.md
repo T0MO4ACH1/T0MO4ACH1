@@ -17,7 +17,7 @@
              background: linear-gradient(90deg, #2563eb 0%, #7c3aed 50%, #db2777 100%);
              -webkit-background-clip: text;
              color: transparent;">
-    Pokemon Nuzlocke
+    <a href="https://pokemon-nuzlocke-vfd5.vercel.app/">Pokemon Nuzlocke</a>
   </h1>
 
   <!-- Dynamic description -->
