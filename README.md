@@ -26,7 +26,7 @@ I love building interactive web applications, experimenting with new tech, and c
 `Node.js` `Firebase` 
 
 **Tools & Platforms:**  
-`GitHub` `VS Code`  
+`GitHub` `VS Code` `Linux` 
 
 ---
 
