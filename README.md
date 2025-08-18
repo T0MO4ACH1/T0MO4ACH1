@@ -26,7 +26,7 @@
             font-size: 1.3em;
             line-height: 1.7;
             padding: 0 20px;">
-    <strong>Pokemon Nuzlocke</strong>A Website made for tracking, helping and documenting your nuzlockes.<br><br>
+    <strong>Pokemon Nuzlocke</strong> - A Website made for tracking, helping and documenting your nuzlockes.<br><br>
     📚 <span style="color: #2563eb;">Useful Information regarding nuzlockes</span> - Documents for each game, Walkthroughs, Pokedex.<br><br>
     💻 <span style="color: #2563eb;">Integrated Emulator</span> - Play Anytime, Anywhere. Compatible with many beloved Games like (Pokemon FireRed, HeartGold, Emerald, Platinum, Black, X, etc.)<br><br>
     🏆 <span style="color: #7c3aed;">Track your Victories</span> - Track your victories, along with trophies for each completed Nuzlocke <br><br>
