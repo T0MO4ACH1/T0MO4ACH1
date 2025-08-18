@@ -5,11 +5,6 @@
 
 
 
-<!-- 🎯 TYPING ANIMATION INTRO -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=3500&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Creative+Problem+Solver" alt="Typing Animation"/>
-</p>
-
 <!-- 🎭 QUICK INTRO -->
 <h4 align="center">🔭 I turn coffee into code and ideas into reality</h4>
 
@@ -64,7 +59,7 @@
 <div align="center">
   
 <!-- 🏆 TROPHY SECTION -->
-![trophy](https://github-profile-trophy.vercel.app/?username=MioJoester&theme=onedark&no-frame=true&no-bg=true&column=3&margin-w=8&margin-h=8)
+![trophy](https://github-profile-trophy.vercel.app/?username=T0MO4ACH1&theme=onedark&no-frame=true&no-bg=true&column=3&margin-w=8&margin-h=8)
 
 </div>
 
@@ -72,13 +67,13 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=MioJoester&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=T0MO4ACH1&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
     </td>
   
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MioJoester&layout=donut&theme=react&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T0MO4ACH1&layout=donut&theme=react&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
     </td>
   
   </tr>
@@ -92,14 +87,14 @@
 <h3 align="center">Recent Activity</h3>
 
 <!-- 📅 GITHUB ACTIVITY GRAPH -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MioJoester&bg_color=0D1117&color=00F5D4&line=00F5D4&point=FFFFFF&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=T0MO4ACH1&bg_color=0D1117&color=00F5D4&line=00F5D4&point=FFFFFF&area=true&hide_border=true)
 
 
 <h3 align="center"> MY TECH STACK</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,java,supabase,firebase,tailwind,nextjs,react,php,nodejs,svelte,github,mysql,mongodb,linux,arch,windows,android " />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,java,supabase,firebase,tailwind,react,php,nodejs,github,mysqllinux,arch,windows " />
   </a>
 </p>
 
@@ -108,14 +103,14 @@
 
 ```html
 <p>Building cool stuff with modern web & systems tech</p>
-<a href="https://github.com/MioJoester" target="_blank">
+<a href="https://github.com/T0MO4ACH1" target="_blank">
 ```
 
 ```java
 System.out.println("Java is a cool language btw!");
 ```
 ```c
-printf("Cant forget the og language ;] ");
+printf("Cant forget the og language");
 ```
 </div>
 
