@@ -83,7 +83,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,java,supabase,tailwind,react,php,nodejs,github,linux,arch,windows " />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,java,supabase,tailwind,php,github,linux,arch,windows " />
   </a>
 </p>
 
