@@ -36,43 +36,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-<!-- 📊 GITHUB STATS CARDS -->
-<div align="center">
-  
-<!-- 🏆 TROPHY SECTION -->
-![trophy](https://github-profile-trophy.vercel.app/?username=T0MO4ACH1&theme=onedark&no-frame=true&no-bg=true&column=3&margin-w=8&margin-h=8)
-
-</div>
-
-<!-- 📈 STATS GRID -->
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=T0MO4ACH1&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-    </td>
-  
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T0MO4ACH1&layout=donut&theme=react&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
-    </td>
-  
-  </tr>
-</table>
-
-
- 
-
-
 <!-- 🚀 LATEST ACTIVITY -->
 <h3 align="center">Recent Activity</h3>
 
@@ -89,44 +52,7 @@
 </p>
 
 
-<div align="center">
-
-```html
-<p>Building cool stuff with modern web & systems tech</p>
-<a href="https://github.com/T0MO4ACH1" target="_blank">
-```
-
-```java
-System.out.println("Java is a cool language btw!");
-```
-```c
-printf("Cant forget the og language");
-```
-</div>
-
-
 
 
 
   
- 
-
-<!-- 🌟 DYNAMIC JOKE -->
-
-
-</div>
-
-<!-- 📝 LATEST BLOG POSTS -->
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- 📱 CONNECT WITH ME -->
-
-
-
-<!-- ⚡ CREDITS -->
-
-
-<!-- 🎯 GITHUB ACTIONS FOR DYNAMIC CONTENT -->
-<!-- These sections will be automatically updated by GitHub Actions -->
