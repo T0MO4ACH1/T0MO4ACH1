@@ -32,7 +32,7 @@
     🏆 <span style="color: #7c3aed;">Track your Victories</span> - Track your victories, along with trophies for each completed Nuzlocke <br><br>
      Powered by and with the help of <a href="https://emulatorjs.org/">Emulator.js</a> and <a href="https://pokeapi.co/">PokeAPI</a><br>
   </p>
-  <p style="color: Red;">Unfortunately, due to some restraints, this project is on hiatus for now, there is a much better version of it, but it is offline.</p>
+  <p style="color: #FF0000;">Unfortunately, due to some restraints, this project is on hiatus for now, there is a much better version of it, but it is offline.</p>
 
 
 
