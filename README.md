@@ -5,10 +5,6 @@
 
 
 
-<!-- 🎭 QUICK INTRO -->
-<h4 align="center">🔭 I turn coffee into code and ideas into reality</h4>
-
-
 
 <h2 align="center"> My Projects</h2>
 
