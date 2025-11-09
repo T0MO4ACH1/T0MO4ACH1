@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,supabase,tailwind,php,github " />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,supabase,tailwind. " />
   </a>
 </p>
 
